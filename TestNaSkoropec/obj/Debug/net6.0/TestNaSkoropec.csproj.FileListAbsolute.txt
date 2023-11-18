@@ -1,0 +1,17 @@
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.AssemblyInfoInputs.cache
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.AssemblyInfo.cs
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.csproj.CoreCompileInputs.cache
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\bin\Debug\net6.0\TestNaSkoropec.exe
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\bin\Debug\net6.0\TestNaSkoropec.deps.json
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\bin\Debug\net6.0\TestNaSkoropec.runtimeconfig.json
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\bin\Debug\net6.0\TestNaSkoropec.dll
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\bin\Debug\net6.0\TestNaSkoropec.pdb
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.csproj.AssemblyReference.cache
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.csproj.CopyComplete
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.dll
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\refint\TestNaSkoropec.dll
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.pdb
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\TestNaSkoropec.genruntimeconfig.cache
+C:\Users\mvino\source\repos\TestNaSkoropec\TestNaSkoropec\obj\Debug\net6.0\ref\TestNaSkoropec.dll
